@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 public class DBConnection {
 	 private static String url = "jdbc:mysql://localhost:3306/echannelling";
 	 private static String user = "root";
-	 private static String pass = "Channel@9098";
+	 private static String pass = "IT23688568";
 	 private static Connection con;
 	 
 	 private static final Logger logger = Logger.getLogger(DBConnection.class.getName());
