@@ -5,7 +5,7 @@
 
     <!-- About -->
     <div>
-      <h3 class="text-xl font-bold mb-4">E-Channelling</h3>
+      <h3 class="text-xl font-bold mb-4">Health-Care</h3>
       <p class="text-gray-400">Your trusted platform for booking medical appointments with ease and convenience.</p>
     </div>
 
@@ -13,9 +13,9 @@
     <div>
       <h3 class="text-xl font-bold mb-4">Quick Links</h3>
       <ul class="space-y-2 text-gray-300">
-        <li><a href="index.jsp" class="hover:text-white"><i class="fas fa-home mr-2"></i>Home</a></li>
+        <li><a href="./index.jsp" class="hover:text-white"><i class="fas fa-home mr-2"></i>Home</a></li>
         <li><a href="doctors.jsp" class="hover:text-white"><i class="fas fa-user-md mr-2"></i>Doctors</a></li>
-        <li><a href="appointments.jsp" class="hover:text-white"><i class="fas fa-calendar-check mr-2"></i>Appointments</a></li>
+        <li><a href="./appointments.jsp" class="hover:text-white"><i class="fas fa-calendar-check mr-2"></i>Appointments</a></li>
         <li><a href="contact.jsp" class="hover:text-white"><i class="fas fa-envelope mr-2"></i>Contact</a></li>
       </ul>
     </div>
